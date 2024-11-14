@@ -1,0 +1,9 @@
+langchain
+python-dotenv
+streamlit
+langchain-community
+langchain_groq
+langgraph
+langchain_ollama
+nltk
+rouge_score
