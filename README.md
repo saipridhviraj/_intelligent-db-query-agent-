@@ -1,5 +1,7 @@
-# _intelligent-db-query-agent-
+#                                            _intelligent-db-query-agent-
 An AI-driven SQL query assistant that helps interact with databases and generate real-time query results.
+
+# database:https://www.kaggle.com/datasets/saadharoon27/airlines-dataset
 
 # Tools and Libraries Used
 **Streamlit**: Provides an interactive web interface for users to input questions and receive answers.
