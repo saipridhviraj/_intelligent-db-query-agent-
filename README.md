@@ -2,11 +2,11 @@
 An AI-driven SQL query assistant that helps interact with databases and generate real-time query results.
 
 # Tools and Libraries Used
-**Streamlit**: Provides an interactive web interface for users to input questions and receive answers.
-**LangChain**: Facilitates agent-based applications by integrating SQL databases and large language models (LLMs).
-**ChatGroq**: An LLM used to process and generate responses to user queries.
-**SQLDatabaseToolkit**: Helps the LLM interact with SQL databases, enabling dynamic query generation and execution.
-**SQL Agent**: The central agent that pulls everything together – it connects the LLM and database tools to handle user queries effectively.
+1.**Streamlit**: Provides an interactive web interface for users to input questions and receive answers.
+2.**LangChain**: Facilitates agent-based applications by integrating SQL databases and large language models (LLMs).
+3.**ChatGroq**: An LLM used to process and generate responses to user queries.
+4.**SQLDatabaseToolkit**: Helps the LLM interact with SQL databases, enabling dynamic query generation and execution.
+5.**SQL Agent**: The central agent that pulls everything together – it connects the LLM and database tools to handle user queries effectively.
 
 # Main Classes
 **DatabaseConnector**: Manages the connection to the SQL database (e.g., SQLite).
