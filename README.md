@@ -53,7 +53,7 @@ A pre-defined prompt template from LangChain's hub, customized with SQL dialect 
 1. The user inputs a question on the Streamlit interface.
 2. The question is processed by the SQLAgentFramework.
 3. The LLM (via ChatGroq) generates an SQL query.
-4. SQLDatabaseToolkit and QuerySQLCheckerTool validate the query.
+4. QuerySQLCheckerTool in SQLDatabaseToolkit validates the query.
 5. QuerySQLDataBaseTool executes the validated query on the database.
 6. The agent formats the results and sends them back to the Streamlit interface.
 7. The results are displayed to the user.
